@@ -1,0 +1,13 @@
+!/dist/
+!/dist/**
+!/artifacts/
+!/artifacts/**
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.parcel-cache/
+**/.vite/
+**/coverage/
+**/.playwright-mcp/
+**/*.tsbuildinfo
+/test/scratch/

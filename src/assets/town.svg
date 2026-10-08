@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" fill="none">
+  <defs>
+    <pattern id="paving" width="24" height="16" patternUnits="userSpaceOnUse"><path d="M0 16h24M12 0v16" stroke="#ded8c7" stroke-width="1"/></pattern>
+    <g id="tree" stroke="#171713" stroke-width="2.2" stroke-linecap="round"><path d="M0 0v42m0-23-10-10m10 1 10-9"/><path d="M0-29C-21-30-27-9-18 1c-15 19 5 33 18 22C13 34 32 18 18 2c11-17-1-32-18-31Z" fill="#fffbee"/><path d="M0-8v50m0-26L-9 6m9 1 10-9"/></g>
+    <g id="agent" stroke="#171713" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 14v13m16-13v13m-22-12-6 5m34-5 6-5M0-18v-7"/><circle cy="-26" r="3" fill="#ffd52a"/><rect x="-13" y="4" width="26" height="17" rx="6" fill="#fffbee"/><rect x="-20" y="-16" width="40" height="27" rx="9" fill="#ffd52a"/><path d="M-8-6v5m16-5v5" stroke-width="3.5"/><path d="M-4 5h8"/></g>
+  </defs>
+  <circle cx="338" cy="254" r="209" fill="#ffd52a"/>
+  <path d="M110 117h45m-32-8h35M482 100h49m-14-9h29" stroke="#171713" stroke-width="2" stroke-linecap="round"/>
+  <g stroke="#171713" stroke-width="2" stroke-linecap="round"><path d="M219 53v16m-8-8h16M552 200v16m-8-8h16M78 269v12m-6-6h12"/></g>
+  <path d="m51 402 286-134 270 136-282 132Z" fill="#fffbee" stroke="#171713" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="m51 402 274 134 282-132v13L325 550 51 415Z" fill="#e9e3d3" stroke="#171713" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="m67 402 270-127 253 129-265 123Z" fill="url(#paving)"/>
+  <path d="m177 343 282 125m-249 12 270-132" stroke="#171713" stroke-width="2"/>
+  <path d="m188 337 282 126m-249 23 270-132" stroke="#fffbee" stroke-width="8"/>
+  <g stroke="#171713" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m248 193 95-46 74 37v143l-95 48-74-38Z" fill="#fffbee"/>
+    <path d="m322 230 95-46v143l-95 48Z" fill="#e9e3d3"/>
+    <path d="m239 190 104-50 83 41-104 51Z" fill="#fffbee"/>
+    <path d="m239 190 83 42 104-51v12l-104 51-83-42Z" fill="#ffd52a"/>
+    <path d="m267 156 76-37 55 27-76 37Z" fill="#fffbee"/>
+    <path d="m267 156 55 27v45l-55-28Z" fill="#fffbee"/>
+    <path d="m322 183 76-37v45l-76 37Z" fill="#ffd52a"/>
+    <path d="M343 119V83m0 0 42 13-42 15" fill="#fffbee"/>
+    <path d="m270 238 15 8v24l-15-8Zm28 14 12 6v24l-12-6Zm-28 31 15 8v24l-15-8Zm28 14 12 6v24l-12-6Z" fill="#ffd52a"/>
+    <path d="m338 247 19-9v26l-19 9Zm35-17 19-9v26l-19 9Zm0 48 19-9v26l-19 9Z" fill="#fffbee"/>
+    <path d="m337 319 21-10v48l-21 11Z" fill="#171713"/>
+    <path d="m278 177 11 6m12 6 11 6"/>
+  </g>
+  <g stroke="#171713" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m86 303 90-44 89 44v100l-91 45-88-45Z" fill="#fffbee"/>
+    <path d="m174 347 91-44v100l-91 45Z" fill="#e9e3d3"/>
+    <path d="m76 302 56-81 92 44 51 36-101 51Z" fill="#ffd52a"/>
+    <path d="m132 221 44-22 92 44-44 22Z" fill="#fffbee"/>
+    <path d="m224 265 44-22 48 37-41 21Z" fill="#e9e3d3"/>
+    <path d="m132 221 42 88m-65-39 46 22"/>
+    <path d="m104 333 49 25v27l-49-25Z" fill="#ffd52a"/>
+    <path d="m121 346-6 3 6 9m13-9 6 9-6 3"/>
+    <path d="m109 380 33 17v34l-33-17Z" fill="#fffbee"/>
+    <path d="M125 389v33"/>
+    <path d="m192 352 22-11v27l-22 11Zm35-17 21-10v27l-21 10Zm-35 61 22-11v33l-22 11Z" fill="#fffbee"/>
+    <path d="m221 385 32-16v15l-32 16Z" fill="#ffd52a"/>
+  </g>
+  <g stroke="#171713" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m390 310 81-40 83 43v104l-82 41-82-42Z" fill="#fffbee"/>
+    <path d="m472 352 82-39v104l-82 41Z" fill="#e9e3d3"/>
+    <path d="m382 305 89-45 91 47-90 45Z" fill="#fffbee"/>
+    <path d="m382 305 90 47 90-45v13l-90 45-90-47Z" fill="#ffd52a"/>
+    <path d="m413 284 43-21 47 24-43 21Z" fill="#fffbee"/>
+    <path d="m413 284 47 24v26l-47-24Z" fill="#ffd52a"/>
+    <path d="m460 308 43-21v26l-43 21Z" fill="#e9e3d3"/>
+    <path d="m410 344 41 21v28l-41-21Z" fill="#ffd52a"/>
+    <path d="m424 359 7 11 7-4-7-11Z" fill="#fffbee"/>
+    <path d="m405 386 27 14v35l-27-14Zm34 17 17 9v17l-17-9Z" fill="#fffbee"/>
+    <path d="m485 371 54-27v29l-54 27Z" fill="#ffd52a"/>
+    <path d="m485 371 54-27v9l-54 27Z" fill="#fffbee"/>
+    <path d="m489 409 18-9v31l-18 9Zm31-15 18-9v20l-18 9Z" fill="#fffbee"/>
+  </g>
+  <use href="#tree" transform="translate(70 345) scale(.85)"/>
+  <use href="#tree" transform="translate(570 347) scale(.9)"/>
+  <use href="#tree" transform="translate(441 212) scale(.85)"/>
+  <g stroke="#171713" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="333" cy="445" rx="40" ry="18" fill="#fffbee"/>
+    <path d="M293 439v6c0 23 80 23 80 0v-6" fill="#e9e3d3"/>
+    <ellipse cx="333" cy="439" rx="40" ry="17" fill="#ffd52a"/>
+    <path d="M333 439v-46"/><path d="m318 407 15-18 15 18"/>
+    <circle cx="333" cy="385" r="7" fill="#fffbee"/>
+    <path d="M308 433q4-13 15-13m20 0q11 0 15 13"/>
+    <path d="m529 448 22-11 18 9-22 11Z" fill="#ffd52a"/>
+    <path d="M537 452v12m22-14v6m-16-14v-19"/>
+    <path d="m529 412 28-14v19l-28 14Z" fill="#fffbee"/>
+    <path d="m535 417 14-7m-4-3 4 3-4 7"/>
+  </g>
+  <ellipse cx="251" cy="443" rx="23" ry="8" fill="#ded8c7"/>
+  <use href="#agent" transform="translate(251 412) rotate(-6)"/>
+  <ellipse cx="411" cy="477" rx="23" ry="8" fill="#ded8c7"/>
+  <use href="#agent" transform="translate(411 446) rotate(5)"/>
+  <ellipse cx="345" cy="328" rx="18" ry="6" fill="#ded8c7"/>
+  <use href="#agent" transform="translate(345 303) scale(.75)"/>
+  <g stroke="#171713" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M203 402v-28q0-6 6-6h15q6 0 6 6v11"/><path d="m204 393-9 4-9-4v-15l18 9Z" fill="#ffd52a"/><path d="m189 379 15 8 7-4-15-8Z" fill="#fffbee"/></g>
+  <g transform="translate(416 113) rotate(9)"><rect width="136" height="42" rx="21" fill="#fffbee" stroke="#171713" stroke-width="1.7"/><circle cx="23" cy="21" r="5" fill="#ffd52a" stroke="#171713" stroke-width="1.5"/><path d="M39 17h76M39 24h57" stroke="#171713" stroke-width="2" stroke-linecap="round"/></g>
+</svg>

@@ -1,0 +1,131 @@
+{
+  "limitBytes": 8388608,
+  "measurement": "All deliverable file contents before Git packaging; excludes this report, .git metadata, supplied .imd inputs and disposable test/scratch.",
+  "fileCountExcludingThisReport": 28,
+  "bytesExcludingThisReport": 2902471,
+  "exportBytes": 383531,
+  "ignorePathBudgetBytes": 512,
+  "ignoreActualBytes": 176,
+  "paths": [
+    {
+      "path": ".gitignore",
+      "bytes": 176
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 9937
+    },
+    {
+      "path": "README.md",
+      "bytes": 7203
+    },
+    {
+      "path": "artifacts/browser-checks.json",
+      "bytes": 4257
+    },
+    {
+      "path": "artifacts/builder-focus.webp",
+      "bytes": 207918
+    },
+    {
+      "path": "artifacts/desktop.webp",
+      "bytes": 584524
+    },
+    {
+      "path": "artifacts/mobile.webp",
+      "bytes": 264656
+    },
+    {
+      "path": "artifacts/text-200.webp",
+      "bytes": 1025156
+    },
+    {
+      "path": "artifacts/validation.md",
+      "bytes": 11915
+    },
+    {
+      "path": "dist/assets/Inter-LICENSE.txt",
+      "bytes": 4380
+    },
+    {
+      "path": "dist/assets/favicon.svg",
+      "bytes": 303
+    },
+    {
+      "path": "dist/assets/inter-variable.woff2",
+      "bytes": 352240
+    },
+    {
+      "path": "dist/assets/town.svg",
+      "bytes": 6072
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 7654
+    },
+    {
+      "path": "dist/styles.css",
+      "bytes": 12882
+    },
+    {
+      "path": "licenses/design-guidance.txt",
+      "bytes": 11964
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 1496
+    },
+    {
+      "path": "package.json",
+      "bytes": 386
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 460
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 3486
+    },
+    {
+      "path": "scripts/preview.mjs",
+      "bytes": 1596
+    },
+    {
+      "path": "src/assets/Inter-LICENSE.txt",
+      "bytes": 4380
+    },
+    {
+      "path": "src/assets/favicon.svg",
+      "bytes": 303
+    },
+    {
+      "path": "src/assets/inter-variable.woff2",
+      "bytes": 352240
+    },
+    {
+      "path": "src/assets/town.svg",
+      "bytes": 6072
+    },
+    {
+      "path": "src/index.html",
+      "bytes": 7654
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 12882
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 279
+    }
+  ],
+  "exportSha256": {
+    "dist/styles.css": "ffc11cad33f66f69a4672b9add584a1379f7c5dcc3a282b369a60c4199c2bea0",
+    "dist/index.html": "34d20988a0b9b42d1c8ecafb5356176b51bc0663a1c1ecef67a9584d062ef5fa",
+    "dist/assets/Inter-LICENSE.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "dist/assets/favicon.svg": "f8572f56f2ec9bf9acafd40acc14a1e6286f91d3bac3ee2e76e97632edfcc9c6",
+    "dist/assets/town.svg": "eef009d1a2faabc5eeef48033603becba2d76957438b306907a669f157a80189",
+    "dist/assets/inter-variable.woff2": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3"
+  }
+}

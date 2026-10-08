@@ -1,0 +1,170 @@
+{
+  "checkedAt": "2026-10-08",
+  "previewPath": "/preview/",
+  "responsive": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "heroColumns": "280px",
+      "districtColumns": "280px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "heroColumns": "320px",
+      "districtColumns": "320px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 704,
+      "scrollWidth": 704,
+      "heroColumns": "664px",
+      "districtColumns": "324px 324px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 705,
+      "scrollWidth": 705,
+      "heroColumns": "320.5px 320.5px",
+      "districtColumns": "320.5px 320.5px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "heroColumns": "352px 352px",
+      "districtColumns": "352px 352px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 960,
+      "scrollWidth": 960,
+      "heroColumns": "448px 448px",
+      "districtColumns": "293.328px 293.328px 293.344px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 961,
+      "scrollWidth": 961,
+      "heroColumns": "432.5px 432.5px",
+      "districtColumns": "283px 283px 283px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "heroColumns": "568px 568px 0px",
+      "districtColumns": "373.328px 373.328px 373.344px",
+      "smallestTargetHeight": 44,
+      "fontLoaded": true
+    }
+  ],
+  "axeDesktop": {
+    "version": "4.10.3",
+    "width": 1440,
+    "violations": [],
+    "passes": 37,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "html": "<span aria-hidden=\"true\">↓</span>",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "html": "<span class=\"highlight\">live and work</span>",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ]
+  },
+  "axeMobile": {
+    "version": "4.10.3",
+    "width": 360,
+    "violations": [],
+    "passes": 37,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          {
+            "html": "<span aria-hidden=\"true\">↓</span>",
+            "summary": "Fix any of the following:\n  Element content contains only non-text characters"
+          },
+          {
+            "html": "<span class=\"highlight\">live and work</span>",
+            "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+          }
+        ]
+      }
+    ]
+  },
+  "textEnlargement": {
+    "width": 768,
+    "rootFontSize": "200%",
+    "beforeScrollWidth": 983,
+    "afterScrollWidth": 768,
+    "nativeBrowserZoom": false
+  },
+  "interactions": {
+    "skipLink": "Enter focuses main; next Tab reaches Enter the town",
+    "internalAnchors": [
+      "#how-it-works",
+      "#districts",
+      "#builders"
+    ],
+    "externalNavigations": [
+      "https://agentcity.lol/town",
+      "https://agentcity.lol/agentcity.txt",
+      "https://agentcity.lol/docs"
+    ],
+    "minimumLinkHeight": 44,
+    "primaryButtonHeight": 56
+  },
+  "contrast": {
+    "algorithm": "WCAG 2 relative luminance, computed rendered colors",
+    "pairs": [
+      {
+        "foreground": "#171713",
+        "background": "#FFFBEF",
+        "ratio": 17.37
+      },
+      {
+        "foreground": "#54544B",
+        "background": "#FFFBEF",
+        "ratio": 7.39
+      },
+      {
+        "foreground": "#54544B",
+        "background": "#FFFFFF",
+        "ratio": 7.65
+      },
+      {
+        "foreground": "#171713",
+        "background": "#FFD52A",
+        "ratio": 12.67
+      },
+      {
+        "foreground": "#FFFBEF",
+        "background": "#171713",
+        "ratio": 17.37
+      }
+    ]
+  },
+  "localResources": {
+    "httpStatus": 200,
+    "consoleWarnings": 0,
+    "consoleErrors": 0,
+    "runtimeJavaScriptFiles": 0
+  }
+}
